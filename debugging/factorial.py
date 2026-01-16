@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 import sys
-#!/usr/bin/python3
-import sys
 
 def factorial(n):
     result = 1
